@@ -115,12 +115,14 @@ header {
   width: 50%;
 }
 .container-lorem {
-  padding: 0 20px;
+  width: 1400px;
+  margin: 0 auto;
+  border-radius: 16px;
+  background: var(--main-color);
 }
 .text-lorem {
   color: #f1f1eb;
-  background: var(--main-color);
-  padding: 84px 60px;
+  padding: 84px 0;
   border-radius: 16px;
   font-weight: 400;
   font-size: 26px;
